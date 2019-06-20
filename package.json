@@ -1,0 +1,11 @@
+{
+  "name": "Sarr-Janak",
+  "version": "1.0.0",
+  "main": "script.js",
+  "author": "Thomas Leon Highbaugh",
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "prettier": "^1.18.2"
+  }
+}
