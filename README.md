@@ -2,7 +2,7 @@
 A web app to make a random background for websites https://saar-janak.netlify.com
 
 
-[!Screenshot1](https://raw.githubusercontent.com/Thomashighbaugh/Saar-Janak/master/saar-janak-screenshots/Selection_001.png)
+![screenshot1](https://raw.githubusercontent.com/Thomashighbaugh/Saar-Janak/master/saar-janak-screenshots/Selection_001.png)
 
 ## Introduction
 
@@ -30,6 +30,6 @@ sudo apt-get install shutter -y
 
 There are several additional options for Linux as well, such as Flameshot and most browsers now come equipped with their own screen capturing programs. So pick your poison and get to making some killer web sites. 
 
-[!screenshot2](https://raw.githubusercontent.com/Thomashighbaugh/Saar-Janak/master/saar-janak-screenshots/Selection_002.png)
+![screenshot2](https://raw.githubusercontent.com/Thomashighbaugh/Saar-Janak/master/saar-janak-screenshots/Selection_002.png)
 
-[!screenshot3](https://raw.githubusercontent.com/Thomashighbaugh/Saar-Janak/master/saar-janak-screenshots/Selection_004.png)
+![screenshot3](https://raw.githubusercontent.com/Thomashighbaugh/Saar-Janak/master/saar-janak-screenshots/Selection_004.png)
