@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "normalize.css": "^8.0.1",
-    "prettier": "^1.18.2"
+    "prettier": "^2.2.1"
   }
 }
